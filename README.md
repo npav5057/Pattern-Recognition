@@ -1,2 +1,2 @@
-#CS669 Pattern Recognition
+CS669 Pattern Recognition
 Assignments Solutions
